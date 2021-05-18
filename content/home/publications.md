@@ -38,5 +38,18 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+1. Ashish Sedai, Ramaa Vasudevan, and Anita Alves Pena, Friends and benefits? Endogenous
+Rotating Savings and Credit Associations as alternative for women empowerment in India,
+World Development 145C (2021).
+2. Ashish K. Sedai, Ramaa Vasudevan, Anita Alves Pena, and Ray Miller, Does reliable electrification
+reduce gender differences: Evidence from India, Journal of Economic Behavior and
+Organization 185 (2021).
+3. Ashish K. Sedai, Rabindra Nepal, and Tooraj Jamasb, Flickering lifelines: Electrification and
+household welfare in India, Energy Economics 94 (2021).
+4. Ashish K. Sedai, Tooraj Jamasb, and Rabindra Nepal, Electrification and socio-economic
+empowerment of women in India, The Energy Journal 43 (2022).
+5. Ashish Kumar Sedai, History of anxiety and possibility: Revisiting Keynes’ technological
+unemployment, Economic & Political Weekly 54 (2019).
+6. Ashish Kumar Sedai,Wage determination under imperfect competition, Economic & Political
+Weekly 52, 77 (2017).
 {{% /callout %}}
